@@ -48,8 +48,13 @@ docker pull vulnerables/web-dvwa
 ```sh
 docker run -d -p 8000:80 vulnerables/web-dvwa
 ```
-## demo
-![](demo.gif)
+
+* #### Run python file
+
+```sh
+python3 main.py
+```
+
 ## Resources
 > [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)<br>
 > [xss payload list](https://github.com/payloadbox/xss-payload-list)
