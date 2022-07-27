@@ -10,6 +10,12 @@ Automated pentesting using docker and python
 sudo apt-get update && sudo apt-get install -y docker.io
 ```
 
+* #### Pull Python image
+
+```sh
+docker pull python
+```
+
 * #### install and run DVWA
 ```sh
 docker pull vulnerables/web-dvwa
@@ -20,6 +26,6 @@ docker run -d -p 8000:80 vulnerables/web-dvwa
 ## demo
 ![](demo.gif)
 ## Resources
-> [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)
+> [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)<br>
 > [xss payload list](https://github.com/payloadbox/xss-payload-list)
-> [thepythoncode](https://www.thepythoncode.com)
+
