@@ -1,5 +1,20 @@
-# Automated-pentesting
-Automated pentesting using docker and python
+# Automated framework for secure software development using ethical hacking
+Automated pentesting using docker and python.
+
+### Main elements of our project:
+
+    1. Containerization
+    2. Pen testing
+    3. Automation
+    
+
+## Containerization
+
+* We have used docker for building containers.
+* We are Building our own image using a docker file.
+* Containers are destroyed at the end.
+
+## Pen testing
 
 
 
