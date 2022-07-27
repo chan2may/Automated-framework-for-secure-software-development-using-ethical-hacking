@@ -31,6 +31,12 @@ Automated pentesting using docker and python.
 
 ## Test fuzzer locally on your host:
 
+* #### Clone the repository
+
+```sh
+git clone https://github.com/chan2may/Automated-framework-for-secure-software-development-using-ethical-hacking.git
+```
+
 * #### Install Python3
 
 ```sh
