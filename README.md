@@ -17,9 +17,9 @@ Automated pentesting using docker and python.
 ### Pen testing
 
  We have integrated three attacks in our project.<br>
-    1. Cross site scripting [XSS].<br>
-    2. SQL injection.<br>
-    3. Password cracking.<br>
+    * *Cross site scripting [XSS].*<br>
+    * *SQL injection.*<br>
+    * *Password cracking.*<br>
  Report is generated at the end.
     
 ### Automation
@@ -47,7 +47,7 @@ sudo apt-get update && sudo apt-get install -y docker.io
 docker pull python
 ```
 
-* #### install and run DVWA
+* #### Install and Run DVWA
 ```sh
 docker pull vulnerables/web-dvwa
 ```
