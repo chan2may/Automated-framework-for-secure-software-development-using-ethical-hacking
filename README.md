@@ -16,9 +16,19 @@ Automated pentesting using docker and python.
 
 ## Pen testing
 
+ We have integrated three attacks in our project.
+    * Cross site scripting [XSS].
+    * SQL injection.
+    * Password cracking.
+ Report is generated at the end.
+    
+## Automation
 
+* We have automated docker containers and pen testing attacks using python.
+* We will be automatically sending the report via email.
 
 ## Test fuzzer locally on your host:
+
 * #### install Docker
 
 ```sh
