@@ -29,7 +29,13 @@ Automated pentesting using docker and python.
 
 ## Test fuzzer locally on your host:
 
-* #### install Docker
+* #### Install Python3
+
+```sh
+sudo apt-get update && sudo apt-get install -y python3
+```
+
+* #### Install Docker
 
 ```sh
 sudo apt-get update && sudo apt-get install -y docker.io
