@@ -8,21 +8,21 @@ Automated pentesting using docker and python.
     3. Automation
     
 
-## Containerization
+### Containerization
 
 * We have used docker for building containers.
 * We are Building our own image using a docker file.
 * Containers are destroyed at the end.
 
-## Pen testing
+### Pen testing
 
- We have integrated three attacks in our project.
+ We have integrated three attacks in our project.<br>
     * Cross site scripting [XSS].
     * SQL injection.
-    * Password cracking.
+    * Password cracking.<br>
  Report is generated at the end.
     
-## Automation
+### Automation
 
 * We have automated docker containers and pen testing attacks using python.
 * We will be automatically sending the report via email.
