@@ -18,9 +18,9 @@ Automated pentesting using docker and python.
 
  We have integrated three attacks in our project.<br>
  
-    * *Cross site scripting [XSS].*<br>
-    * *SQL injection.*<br>
-    * *Password cracking.*<br>
+    * Cross site scripting [XSS].
+    * SQL injection.
+    * Password cracking.
     
  Report is generated at the end.
     
