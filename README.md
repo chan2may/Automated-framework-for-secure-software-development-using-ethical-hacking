@@ -78,4 +78,5 @@ python3 main.py
 > [E-mail automation](https://realpython.com/python-send-email/)<br>
 > [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)<br>
 > [xss payload list](https://github.com/payloadbox/xss-payload-list)<br>
+> [Web Application Fuzzer](https://github.com/saghal/webApplicationFuzzer.git)
 
