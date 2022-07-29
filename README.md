@@ -27,7 +27,7 @@ Automated pentesting using docker and python.
 ### Automation
 
 * We have automated docker containers and pen testing attacks using python.
-* We will be automatically sending the report via email.
+* We will be automatically send the report via email.
 
 ## Test fuzzer locally on your host:
 
