@@ -10,13 +10,14 @@ Automated pentesting using docker and python.
 
 ### Containerization
 
-* We have used docker for building containers.
-* We are Building our own image using a docker file.
-* Containers are destroyed at the end.
+* Docker based.
+* Deployment image using docker file.
+* Leave no trace – destroy the container.
+
 
 ### Pen testing
 
- We have integrated three attacks in our project.<br>
+ Integrated three attacks.<br>
  
     * Cross site scripting [XSS].
     * SQL injection.
@@ -24,10 +25,13 @@ Automated pentesting using docker and python.
     
  Report is generated at the end.
     
+    
 ### Automation
 
-* We have automated docker containers and pen testing attacks using python.
-* We will be automatically send the report via email.
+* Python based.
+* Automated container lifecycle and pen testing attacks.
+* Automated result generation and email notification.
+
 
 ## Test fuzzer locally on your host:
 
@@ -70,6 +74,10 @@ python3 main.py
 ```
 
 ## Resources
+> [Pen testing attacks](https://github.com/saghal/webApplicationFuzzer)<br>
+> [Docker](https://docs.docker.com/)<br>
+> [Owasp zap](https://www.zaproxy.org/docs/docker/about/)<br>
+> [E-mail automation](https://realpython.com/python-send-email/)<br>
 > [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)<br>
-> [xss payload list](https://github.com/payloadbox/xss-payload-list)
+> [xss payload list](https://github.com/payloadbox/xss-payload-list)<br>
 
