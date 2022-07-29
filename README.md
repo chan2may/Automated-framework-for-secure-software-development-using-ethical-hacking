@@ -23,8 +23,6 @@ Automated pentesting using docker and python.
     * SQL injection.
     * Password cracking.
     
- Report is generated at the end.
-    
     
 ### Automation
 
